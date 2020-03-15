@@ -1,5 +1,5 @@
 .container{
-  width: 700px;
+  width: 800px;
   margin: auto;
 }
 
@@ -9,4 +9,8 @@ body{
 
 footer{
   border-top: solid 3px black;
+}
+
+dd{
+    margin-bottom: 20px;
 }
