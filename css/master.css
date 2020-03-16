@@ -1,16 +1,17 @@
-.container{
-  width: 800px;
-  margin: auto;
+.container {
+    width: 800px;
+    margin: auto;
 }
 
-body{
-  font-size: 24px;
+body {
+    font-size: 24px;
 }
 
-footer{
-  border-top: solid 3px black;
+footer {
+    border-top: solid 3px black;
+    font-size: medium;
 }
 
-dd{
+dd {
     margin-bottom: 20px;
 }
